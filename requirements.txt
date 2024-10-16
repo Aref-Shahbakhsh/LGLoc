@@ -7,3 +7,6 @@ transformers
 torch-geometric
 keras
 tensorflow
+networkx
+forgi
+ViennaRNA
