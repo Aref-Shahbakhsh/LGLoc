@@ -10,3 +10,4 @@ tensorflow
 networkx
 forgi
 ViennaRNA
+tqdm
