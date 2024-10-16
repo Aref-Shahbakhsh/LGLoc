@@ -11,3 +11,7 @@ networkx
 forgi
 ViennaRNA
 tqdm
+lion-pytorch
+tokenizers
+datasets
+evaluate
