@@ -1,5 +1,4 @@
 # LGLoc
-LGLoc: The predictor of mRNA subcellular localization based on BERT and Graph Neural Network Encoder
 First you need to install requirements of LGloc by running:
 ```
 pip install -r requirements.txt
