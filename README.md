@@ -12,7 +12,7 @@ python performance_evaluation.py
 ```
 - Model Folder contains orginal Graph Neural Network model and BERT model, you can train these models on the LGloc dataset or your own dataset path.
 - GNN and BERT weight are put into Model weights folder, you can load these weights if you want to use our trained GNN and BERT models
-# Secondary structures
+# Secondary structure
 All Secondary structures of LGloc model are put on the Secondary structure folder which pridected by using ViennaRNA Package. if you want to pridect your own dataset secondary structure run:
 
 ```
