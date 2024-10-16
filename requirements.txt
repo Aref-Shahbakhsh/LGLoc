@@ -15,3 +15,5 @@ lion-pytorch
 tokenizers
 datasets
 evaluate
+pickle5
+matplotlib
