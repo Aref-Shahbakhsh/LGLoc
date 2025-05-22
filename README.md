@@ -52,7 +52,7 @@ To predict secondary structure for your own RNA sequences:
 ```python
 import RNA
 
-seq = 'AAACCCGGGTTT'  # Replace with your sequence
+seq = 'AAACCCGGGUUU'  # Replace with your sequence
 structure, energy = RNA.fold(seq)
 print(structure)
 ```
