@@ -1,6 +1,6 @@
 # LGLoc
 
-LGLoc is a bioinformatics tool designed for localization prediction using a combination of Graph Neural Networks (GNN), BERT models, and secondary structure analysis.
+LGLoc is a bioinformatics tool designed for mRNA localization prediction using a combination of Graph Neural Networks (GNN), BERT model, and secondary structure analysis.
 
 ---
 
@@ -61,7 +61,7 @@ print(structure)
 
 ## 📊 Feature Vectors
 
-- GNN and BERT features are stored in the `gnn_features` and `bert_features` folders, respectively.
+- GNN and BERT features are stored in the `feature vectore from gnn and bert` folder.
 - These features are generated using trained GNN and BERT models.
 
 ### 🛠 Generate Your Own Features
@@ -70,7 +70,7 @@ To generate feature vectors on a custom dataset:
 
 ```bash
 python GNN.py         # For GNN features
-python splice_bert.py # For BERT features
+python Splice_Bert.py # For BERT features
 ```
 
 Ensure you configure your dataset path correctly in each script.
@@ -95,11 +95,8 @@ LGLoc/
 ├── Model/                 # GNN and BERT model definitions
 ├── Model_weights/        # Pretrained model weights
 ├── Secondary_structure/  # Predicted RNA secondary structures
-├── gnn_features/         # GNN feature vectors
-├── bert_features/        # BERT feature vectors
+├── feature vectores from bert and gnn/         # GNN and BERT feature vectors
 ├── performance_evaluation.py
-├── GNN.py
-├── splice_bert.py
 └── requirements.txt
 ```
 
@@ -107,4 +104,4 @@ LGLoc/
 
 ## 📫 Contact
 
-For questions, suggestions, or collaboration, feel free to open an issue or contact us via [email/email placeholder].
+For questions, suggestions, or collaboration, feel free to open an issue or contact us via [email/aref.shahbakhsh1998@gmail.com]
