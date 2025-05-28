@@ -1,6 +1,8 @@
 # LGLoc
 
 LGLoc is a bioinformatics tool designed for mRNA localization prediction using a combination of Graph Neural Networks (GNN), BERT model, and secondary structure analysis.
+![alt text](https://www.nature.com/articles/s41598-025-03485-8/figures/1)
+
 
 ---
 
