@@ -81,7 +81,6 @@ Ensure you configure your dataset path correctly in each script.
 
 If you use LGLoc in your research or application, please cite our LGLoc paper. 
 > [[Link to the paper](https://www.nature.com/articles/s41598-025-03485-8)]
-> [[Cite to the paper](https://rdcu.be/eohRr)]
 
 ---
 
