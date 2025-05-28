@@ -6,6 +6,26 @@ LGLoc is a bioinformatics tool designed for mRNA localization prediction using a
 
 ---
 
+## 📁 Project Structure
+
+```
+LGLoc/
+│
+├── Models/                             # GNN and BERT model definitions
+├── Model weights/                      # Pretrained model weights
+├── predicted secondary structures/     # Predicted RNA secondary structures
+├── Feature vectors from GNN and BERT/  # GNN & BERT feature vectors
+├── CKSNAP features/                    # CKSNAP feature vectors
+├── K-mer Encoder/                      # K-mer encoding files
+├── performance_evaluation.py
+├── Raw Dataset.txt
+├── requirements.txt
+└── LICENSE
+
+```
+
+---
+
 ## 📦 Installation
 
 Before running LGLoc, install the required Python packages:
@@ -83,26 +103,6 @@ Ensure you configure your dataset path correctly in each script.
 
 If you use LGLoc in your research or application, please cite our LGLoc paper. 
 > [[Link to the paper](https://www.nature.com/articles/s41598-025-03485-8)]
-
----
-
-## 📁 Project Structure
-
-```
-LGLoc/
-│
-├── Models/                             # GNN and BERT model definitions
-├── Model weights/                      # Pretrained model weights
-├── predicted secondary structures/     # Predicted RNA secondary structures
-├── Feature vectors from GNN and BERT/  # GNN & BERT feature vectors
-├── CKSNAP features/                    # CKSNAP feature vectors
-├── K-mer Encoder/                      # K-mer encoding files
-├── performance_evaluation.py
-├── Raw Dataset.txt
-├── requirements.txt
-└── LICENSE
-
-```
 
 ---
 
