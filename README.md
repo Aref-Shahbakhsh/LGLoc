@@ -79,11 +79,9 @@ Ensure you configure your dataset path correctly in each script.
 
 ## 📄 Citation
 
-If you use LGLoc in your research or application, please cite our LGLoc paper.
-
-> [LGLoc as a new language model-driven graph neural network for mRNA localization]  
-> [Saeedeh Akbari Rokn Abadi, Aref Shahbakhsh & Somayyeh Koohi]  
-> [[Link or DOI](https://www.nature.com/articles/s41598-025-03485-8)]
+If you use LGLoc in your research or application, please cite our LGLoc paper. 
+> [[Link to the paper](https://www.nature.com/articles/s41598-025-03485-8)]
+> [[Cite to the paper](https://rdcu.be/eohRr)]
 
 ---
 
